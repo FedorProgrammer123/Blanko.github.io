@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-scss": "^1.4.0",
+    "scss": "^0.2.4"
+  },
+  "name": "blanko",
+  "version": "0.0.1",
+  "description": "Site About Blanko",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedorProgrammer123/Blanko.github.io.git"
+  },
+  "keywords": [
+    "Blanko",
+    "Site",
+    "about",
+    "Blanko"
+  ],
+  "author": "Fedor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedorProgrammer123/Blanko.github.io/issues"
+  },
+  "homepage": "https://github.com/FedorProgrammer123/Blanko.github.io#readme"
+}

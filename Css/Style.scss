@@ -1,0 +1,102 @@
+@import 'Media';
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Roboto';
+}
+header{
+    nav{
+        background-color:#000;
+    }
+    .container-fluid{
+        a{
+            color: #FFFFFF;
+            font-size: 1rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 1.5rem;
+            padding-left: 10em;
+        }
+        .Purchase_template{
+            border-radius: 0.375rem;
+            background: #FF7143;
+            border: 0;
+        }
+        .mail_blanko_com{
+            border-radius: 0.25rem;
+            background: rgba(255, 255, 255, 0.12);
+            border: 0;
+        }
+    }
+}
+main{
+    .template{
+        height: 50em;
+        background-color: #FF7143;
+        .flex1{
+            padding-left: 10em;
+            padding-top: 10em;
+            .Purchase_template{
+                width: 14.125rem;
+                height: 4rem;
+                border-radius: 0.375rem;
+                background: #000;
+                border: 0;
+            }
+            .Other_templates{
+                width: 13rem;
+                height: 4rem;
+                border-radius: 0.375rem;
+                background: #FFF;
+                border: 0;
+            }
+        }
+        img{
+            margin-left: 50em;
+            margin-top: -27em;
+        }
+    }
+    .Drunk{
+        height: 50em;
+        background-color: #000000;
+    }
+    .flex3{
+        margin-left: -15em;
+        padding-top: 10em;
+        .first-element{
+            width: 1rem;
+            height: 1rem;
+            background-color: #FFFFFF;
+            border: 0;
+            border-radius: 0;
+        }
+        .second-element{
+            width: 1rem;
+            height: 1rem;
+            background-color: #FFFFFF;
+            border: 0;
+            border-radius: 0;
+            background: rgba(255, 255, 255, 0.40);
+        }
+        .Join_a_community_of_industry{
+            margin-left: 20em;
+        }
+    }
+    .Landing_pages{
+        margin-left: 5em;
+        margin-top: 2em;
+    }
+}
+footer{
+    height: 20em;
+    background-color: #000000;
+    a{
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+    .flex2{
+        float: right;
+        margin-top: -12em;
+        margin-right: 5em;
+    }
+}

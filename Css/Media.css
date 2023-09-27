@@ -1,0 +1,101 @@
+@media screen and (min-width: 600px) and (max-width: 700px) {
+  .template img {
+    display: none;
+  }
+}
+@media screen and (min-width: 700px) and (max-width: 800px) {
+  .template img {
+    display: none;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 900px) {
+  .template img {
+    display: none;
+  }
+}
+@media screen and (min-width: 900px) and (max-width: 1000px) {
+  .template img {
+    display: none;
+  }
+}
+@media screen and (min-width: 500px) and (max-width: 600px) {
+  .template img {
+    display: none;
+  }
+  footer .cases {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .characteristics .d-flex {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+@media screen and (min-width: 400px) and (max-width: 500px) {
+  .template img {
+    display: none;
+  }
+  .template .flex1 {
+    margin-left: -8em;
+  }
+  .Join_a_community_of_industry {
+    position: relative;
+    right: 5em;
+  }
+  footer .cases {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .characteristics .d-flex {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+@media screen and (min-width: 300px) and (max-width: 400px) {
+  .template img {
+    display: none;
+  }
+  .template .flex1 {
+    margin-left: -12em;
+  }
+  header img {
+    margin-left: -10em;
+  }
+  .Join_a_community_of_industry {
+    position: relative;
+    right: 5em;
+  }
+  footer .cases {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .characteristics .d-flex {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .Join_a_community_of_industry {
+    position: relative;
+    right: 8em;
+  }
+  .flex3 img {
+    margin-left: 12em;
+  }
+  .Laura_Paula {
+    margin-left: 10.4em;
+  }
+  .Director_Company {
+    margin-left: 13.8em;
+  }
+}

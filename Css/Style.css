@@ -1,0 +1,199 @@
+@media screen and (min-width: 600px) and (max-width: 700px) {
+  .template img {
+    display: none;
+  }
+}
+@media screen and (min-width: 700px) and (max-width: 800px) {
+  .template img {
+    display: none;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 900px) {
+  .template img {
+    display: none;
+  }
+}
+@media screen and (min-width: 900px) and (max-width: 1000px) {
+  .template img {
+    display: none;
+  }
+}
+@media screen and (min-width: 500px) and (max-width: 600px) {
+  .template img {
+    display: none;
+  }
+  footer .cases {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .characteristics .d-flex {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+@media screen and (min-width: 400px) and (max-width: 500px) {
+  .template img {
+    display: none;
+  }
+  .template .flex1 {
+    margin-left: -8em;
+  }
+  .Join_a_community_of_industry {
+    position: relative;
+    right: 5em;
+  }
+  footer .cases {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .characteristics .d-flex {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+@media screen and (min-width: 300px) and (max-width: 400px) {
+  .template img {
+    display: none;
+  }
+  .template .flex1 {
+    margin-left: -12em;
+  }
+  header img {
+    margin-left: -10em;
+  }
+  .Join_a_community_of_industry {
+    position: relative;
+    right: 5em;
+  }
+  footer .cases {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .characteristics .d-flex {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .Join_a_community_of_industry {
+    position: relative;
+    right: 8em;
+  }
+  .flex3 img {
+    margin-left: 12em;
+  }
+  .Laura_Paula {
+    margin-left: 10.4em;
+  }
+  .Director_Company {
+    margin-left: 13.8em;
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto";
+}
+
+header nav {
+  background-color: #000;
+}
+header .container-fluid a {
+  color: #FFFFFF;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5rem;
+  padding-left: 10em;
+}
+header .container-fluid .Purchase_template {
+  border-radius: 0.375rem;
+  background: #FF7143;
+  border: 0;
+}
+header .container-fluid .mail_blanko_com {
+  border-radius: 0.25rem;
+  background: rgba(255, 255, 255, 0.12);
+  border: 0;
+}
+
+main .template {
+  height: 50em;
+  background-color: #FF7143;
+}
+main .template .flex1 {
+  padding-left: 10em;
+  padding-top: 10em;
+}
+main .template .flex1 .Purchase_template {
+  width: 14.125rem;
+  height: 4rem;
+  border-radius: 0.375rem;
+  background: #000;
+  border: 0;
+}
+main .template .flex1 .Other_templates {
+  width: 13rem;
+  height: 4rem;
+  border-radius: 0.375rem;
+  background: #FFF;
+  border: 0;
+}
+main .template img {
+  margin-left: 50em;
+  margin-top: -27em;
+}
+main .Drunk {
+  height: 50em;
+  background-color: #000000;
+}
+main .flex3 {
+  margin-left: -15em;
+  padding-top: 10em;
+}
+main .flex3 .first-element {
+  width: 1rem;
+  height: 1rem;
+  background-color: #FFFFFF;
+  border: 0;
+  border-radius: 0;
+}
+main .flex3 .second-element {
+  width: 1rem;
+  height: 1rem;
+  background-color: #FFFFFF;
+  border: 0;
+  border-radius: 0;
+  background: rgba(255, 255, 255, 0.4);
+}
+main .flex3 .Join_a_community_of_industry {
+  margin-left: 20em;
+}
+main .Landing_pages {
+  margin-left: 5em;
+  margin-top: 2em;
+}
+
+footer {
+  height: 20em;
+  background-color: #000000;
+}
+footer a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+footer .flex2 {
+  float: right;
+  margin-top: -12em;
+  margin-right: 5em;
+}
